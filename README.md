@@ -158,6 +158,8 @@ Replace these placeholders with screenshots from your own project run:
 
 ![Total Sales by Region/Product Category](./docs/images/Figure_3.png)
 
+![Total Sales by Region/Product Category Cleaned](./docs/images/Figure_4.png)
+
 ## Project Documentation
 
 7/13/2026 11:00 PM added ability to clean app data
@@ -169,6 +171,14 @@ Located within data_preparation for .py files - outputs to data files - clean.
 7/13/2026 11:30 PM published results of app_case
 
 Published results of app_case graphical outputs to the documents folder for review.
+
+7/14/2026 12:18 AM Add jonathan_app_case
+
+The app now loads cleaned data instead of raw data, ensuring all analysis and charts reflect the results of the cleaning pipeline.
+
+Chart titles were updated to explicitly indicate that the visuals are based on cleaned datasets.
+
+Color palettes were changed to improve readability and make the charts visually distinct from earlier raw‑data examples.
 
 [docs/index.md](docs/index.md)
 
