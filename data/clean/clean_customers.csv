@@ -1,0 +1,201 @@
+CustomerID,Name,Region,JoinDate,CreditScore#,GoldMember
+1000,Robert Gomez,West,2024-02-25,300,YES
+1001,John Silva,East,2020-12-01,312,NO
+1002,Mark Marshall,Central,2020-08-08,329,YES
+1003,David Brennan,North,2020-05-21,335,YES
+1004,Kerry Collins,North,2023-09-12,341,NO
+1005,Jessica Mora,South,2021-08-05,355,NO
+1006,Hannah Ray,West,2021-07-03,360,YES
+1007,David Kim,West,2020-05-20,372,NO
+1008,William Ramirez,East,2023-09-15,389,YES
+1009,Zachary Bell Jr.,East,2023-04-20,395,NO
+1010,Mike Davis,East,2022-03-23,402,YES
+1011,Amanda Myers,West,2021-09-05,410,YES
+1012,Tara Miller,North,2020-08-10,417,NO
+1013,Alyssa Morgan,North,2022-07-22,423,YES
+1014,Cindy Woods,East,2024-04-02,437,NO
+1015,Jennifer Rodgers,North,2023-02-12,441,YES
+1016,Andrea Roberts,East,2021-05-16,455,NO
+1017,Brittney Burnett,North,2020-07-03,462,YES
+1018,Edwin Garrison,South West,2020-08-31,470,NO
+1019,Michelle Torres,Central,2020-11-18,481,YES
+1020,Michelle Brewer,East,2021-07-14,489,YES
+1021,Aaron Burnett,South,2024-02-13,493,NO
+1022,Austin Gutierrez,East,2021-11-25,501,NO
+1023,Dustin Medina,East,2021-06-14,515,YES
+1024,Andres Avila,Central,2022-09-19,522,YES
+1025,Garrett Lewis,South,2023-08-04,530,NO
+1026,Gary Walls,North,2023-10-05,544,YES
+1027,Anthony Schroeder,East,2020-10-04,550,NO
+1028,Haley Wagner,West,2023-11-03,561,YES
+1029,Gina Powers,West,2022-10-26,573,NO
+1030,Alice Robinson,East,2021-08-06,580,YES
+1031,Jessica Frazier,West,2021-10-20,594,YES
+1032,Terri Long,East,2022-10-23,600,NO
+1033,Paul Perkins,East,2022-03-16,612,YES
+1034,Heather Smith,Central,2022-09-16,625,NO
+1035,Lorraine Rodriguez,East,2022-09-26,631,YES
+1036,Robert Bishop,South West,2020-09-14,640,NO
+1037,Lisa Sanders,West,2020-06-03,649,YES
+1038,Jason Ford,East,2023-10-09,655,YES
+1039,Brandy Good,West,2023-05-21,662,NO
+1040,Angel Lee,Central,2022-04-08,670,YES
+1041,David Beltran,East,2021-01-18,681,NO
+1042,Christopher Dodson,North,2023-10-30,689,YES
+1043,Eric Pena,West,2022-06-30,695,NO
+1044,Anita Huerta,East,2022-04-08,702,YES
+1045,Dr. Susan Bailey,North,2020-10-02,715,YES
+1046,Tyler Colon,Central,2021-03-03,721,NO
+1047,Ashley Pearson,West,2020-10-04,734,YES
+1048,Dr. Donald Proctor,North,2024-03-17,740,NO
+1049,Rebecca Jordan,West,2022-10-08,748,YES
+1050,Jeffrey Mclaughlin,East,2022-03-28,755,NO
+1051,Amy Nguyen,Central,2024-02-13,762,YES
+1052,Brandon Hinton,South West,2022-11-10,770,YES
+1053,Benjamin Cline,East,2022-01-25,781,NO
+1054,Laura Mcdonald,South,2022-12-03,789,NO
+1055,William Benitez,East,2020-11-04,795,YES
+1056,Kristina Wilson,East,2023-05-15,802,YES
+1057,Kathy Hall,North,2023-10-27,810,NO
+1058,Steven Jackson,Central,2020-06-26,817,YES
+1059,Steve Massey,West,2020-08-06,825,NO
+1060,Mr. Christopher Thompson,South,2023-04-10,833,YES
+1061,Taylor Kaufman,North,2021-07-23,840,NO
+1062,Ashley Harmon,South,2024-02-13,847,YES
+1063,Howard Case,South West,2021-02-15,318,YES
+1064,Joshua Cline,East,2024-02-19,327,NO
+1065,Daniel Adams,Central,2023-07-02,333,YES
+1066,Derrick Myers,North,2022-04-06,346,NO
+1067,Lawrence Pearson,East,2023-04-29,358,YES
+1068,Melissa Gutierrez,East,2023-12-25,364,NO
+1069,Virginia Warren,North,2023-08-24,371,YES
+1070,Brittany Johnson,East,2021-06-04,386,YES
+1071,Christopher Frost,East,2020-08-21,392,NO
+1072,Shannon Schmitt,East,2022-08-23,407,YES
+1073,Matthew Clark,Central,2023-08-21,414,NO
+1074,Alyssa Evans,West,2021-10-27,429,YES
+1075,Joseph Chavez,North,2023-01-01,438,NO
+1076,Glenn Shelton,East,2024-05-01,446,YES
+1077,Amy Espinoza,North,2021-05-29,459,YES
+1078,Danielle Fuller,South West,2023-12-08,468,NO
+1079,Zachary Thompson MD,East,2022-09-05,474,NO
+1080,Thomas Parker,South West,2023-02-28,488,YES
+1081,Ryan White,South,2020-09-04,497,YES
+1082,Connor Martin,Central,2023-01-05,503,NO
+1083,Jacqueline Bishop,South,2020-06-05,516,YES
+1084,Martha Mccall,North,2022-05-31,528,NO
+1085,Steven Wright,Central,2021-08-22,539,YES
+1086,Robert Rodriguez,East,2023-03-01,547,NO
+1087,Carla Tran,East,2020-07-22,559,YES
+1088,Lindsay Torres,East,2021-12-30,566,YES
+1089,Matthew Hernandez,North,2023-04-12,578,NO
+1090,Nicholas Dunlap,South,2020-10-11,589,YES
+1091,Brianna Thomas,South West,2023-05-23,597,NO
+1092,Timothy Hill,West,2023-09-07,603,YES
+1093,Christian Medina,East,2023-02-04,618,NO
+1094,Robert Jones,West,2023-11-18,629,YES
+1095,Dr. Jason Scott,South,2021-04-07,637,YES
+1096,Patricia Rogers,South,2024-01-10,645,NO
+1097,Laura Jones,East,2023-12-07,658,YES
+1098,Jeffrey Maxwell,West,2022-01-27,667,NO
+1099,Lori Howard,East,2021-02-27,679,YES
+1100,Michael Simon,East,2020-12-27,688,NO
+1101,Ryan Martin,South West,2020-11-14,699,YES
+1102,Robert Hansen,Central,2022-11-19,706,YES
+1103,Megan Chandler,East,2023-06-25,719,NO
+1104,David Herrera,West,2021-04-01,728,NO
+1105,Taylor Clarke,Central,2023-03-11,739,YES
+1106,Jennifer Ewing,East,2023-05-16,746,YES
+1107,Emily Hoffman,West,2023-06-09,759,NO
+1108,Sharon Bautista,Central,2022-07-31,768,YES
+1109,Aaron Garcia,East,2023-07-31,777,NO
+1110,Melissa Grimes,South,2024-03-14,784,YES
+1111,Ronald Chavez,South West,2021-06-24,792,NO
+1112,Joseph Flores,East,2021-04-03,804,YES
+1113,Louis Jones,Central,2021-07-04,812,YES
+1114,Grace Price,South,2022-03-25,821,NO
+1115,Gina Banks,West,2023-09-16,836,YES
+1116,Melissa Rivera,Central,2021-10-25,843,NO
+1117,Amanda Lang,North,2024-04-14,849,YES
+1118,Briana Alvarado,South,2022-03-18,305,NO
+1119,Cameron Hernandez,East,2022-08-08,314,YES
+1120,Daniel Meyer,South,2024-03-15,322,YES
+1121,Stephanie Garrison,East,2020-08-21,338,NO
+1122,Christopher Martinez,East,2021-10-07,344,YES
+1123,Colleen Greene,South West,2022-08-21,352,NO
+1124,Megan Novak,East,2022-12-19,365,YES
+1125,Debbie Andrews,West,2021-05-22,379,NO
+1126,Lee Luna,East,2021-01-19,387,YES
+1127,George Edwards,Central,2023-05-12,399,YES
+1128,Vincent Day,North,2022-07-03,406,NO
+1129,Karina Jones,East,2023-11-05,419,NO
+1130,Mary Sandoval,North,2020-10-06,431,YES
+1131,Mark Gomez,West,2020-06-11,443,YES
+1132,Scott Winters,West,2022-09-20,451,NO
+1133,Victor Wagner,South West,2021-06-12,463,YES
+1134,Joseph Aguilar,West,2023-12-05,472,NO
+1135,Christopher Chen,South,2023-09-10,486,YES
+1136,Scott Hernandez,South,2024-02-09,494,NO
+1137,Jessica Harmon,South West,2022-11-05,506,YES
+1138,Bonnie Stewart,South,2022-04-19,512,YES
+1139,Heather Olson,Central,2021-04-20,526,NO
+1140,Carla Flores,East,2020-09-30,533,YES
+1141,David Palmer,North,2022-09-16,541,NO
+1142,Marvin Hamilton,North,2022-04-23,553,YES
+1143,Miss Chelsea Castro DDS,Central,2021-02-23,565,NO
+1144,Brian Browning,East,2023-05-03,571,YES
+1145,Stephanie Powell,East,2023-02-03,583,YES
+1146,Jonathan Andrade,South West,2020-06-07,590,NO
+1147,William Palmer,South West,2023-08-14,605,YES
+1148,Dean Allison,West,2021-06-23,617,NO
+1149,Jordan Elliott,North,2020-05-13,624,YES
+1150,Bobby Hunter,North,2020-12-06,639,NO
+1151,Sabrina Lester,West,2022-07-16,647,YES
+1152,Thomas Garcia,East,2022-09-14,653,YES
+1153,Michelle Martinez,East,2023-07-31,666,NO
+1154,Edward Castillo,North,2020-10-01,674,NO
+1155,Rachel Goodman,North,2023-04-10,683,YES
+1156,Dennis Acevedo,East,2023-06-18,691,YES
+1157,Cheryl Wu,West,2021-12-10,703,NO
+1158,Kelly Gallagher,East,2024-03-02,711,YES
+1159,Kelli Smith,North,2022-01-28,723,NO
+1160,Phillip Soto,West,2023-04-21,300,YES
+1161,David Ellis,East,2023-01-02,312,NO
+1162,Deborah Rice,East,2022-01-14,329,YES
+1163,Elizabeth Vaughn,West,2023-05-01,335,YES
+1164,William Ramsey,North,2023-05-04,341,NO
+1165,Richard Burnett,Central,2022-07-24,355,YES
+1166,David Mccullough,South West,2021-12-15,360,NO
+1167,Terry Frederick,North,2021-12-20,372,YES
+1168,Denise Gonzales,South,2022-05-02,389,NO
+1169,Michael Edwards,South West,2023-09-26,395,YES
+1170,Eric Davis,North,2023-10-15,402,YES
+1171,Ronald Marquez,South West,2024-04-21,410,NO
+1172,Eric Barr,East,2023-02-01,417,YES
+1173,David King MD,North,2022-09-14,423,NO
+1174,Deborah Saunders,West,2021-12-25,437,YES
+1175,Teresa Lopez,West,2021-10-20,441,NO
+1176,Ashley Williams,East,2021-11-24,455,YES
+1177,Katherine West,East,2020-11-01,462,YES
+1178,Katherine Kerr,East,2020-11-13,470,NO
+1179,Desiree Miller,East,2021-12-21,481,NO
+1180,Jennifer Smith,South West,2020-10-03,489,YES
+1181,Tiffany Smith,East,2024-04-07,493,YES
+1182,James Gray,West,2020-07-24,501,NO
+1183,Kenneth Graves,East,2020-05-08,515,YES
+1184,Brittney Chen,East,2023-07-20,522,NO
+1185,Cameron Levine,East,2021-07-26,530,YES
+1186,Timothy Williams,West,2021-09-28,544,NO
+1187,Kayla Solomon,North,2022-06-10,550,YES
+1188,Ashley Todd,North,2023-09-04,561,YES
+1189,Jennifer Farrell,North,2022-11-18,573,NO
+1190,Elizabeth Robinson,South West,2023-12-27,580,YES
+1191,Kyle Smith Jr.,South,2023-10-31,594,NO
+1192,Gregory Medina,East,2020-06-06,600,YES
+1193,Nancy King,South,2022-05-23,612,NO
+1194,Casey Brown,Central,2024-02-09,625,YES
+1195,Michael Lee,South West,2023-08-22,631,YES
+1196,Dr. Elizabeth Johnston DDS,North,2022-02-09,640,NO
+1197,William Wilson,West,2023-04-04,649,YES
+1198,Chris Allen,South West,2022-10-11,655,NO
+1199,James Cooley,West,2020-07-23,662,YES

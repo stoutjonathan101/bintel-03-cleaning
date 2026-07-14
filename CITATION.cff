@@ -12,8 +12,23 @@ cff-version: "1.2.0"
 type: software
 
 title: "bintel-03-cleaning"
-version: "0.1.0"
+version: "0.1.1"
 date-released: "2026-06-28"
+
+authors:
+  - family-names: Case
+    given-names: Denise M.
+    orcid: "https://orcid.org/0000-0001-6165-7389"
+    affiliation: "Northwest Missouri State University, School of Computer Science and Information Systems, Maryville, MO, USA"
+
+title: "bintel-03-cleaning"
+version: "0.1.2"
+date-released: "2026-06-28"
+
+authors:
+  - family-names: Stout
+    given-names: Jonathan A.
+    affiliation: "Northwest Missouri State University, School of Computer Science and Information Systems, Maryville, MO, USA"
 
 authors:
   - family-names: Case
