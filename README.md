@@ -162,7 +162,15 @@ Replace these placeholders with screenshots from your own project run:
 
 ## Project Documentation
 
-Additional project instructions, terms, and notes:
+7/13/2026 11:00 PM added ability to clean app data
+.
+The project was updated to include a complete data‑cleaning pipeline with logging, directory management, and modular preparation scripts. These changes ensure that raw data is cleaned consistently, errors are logged, and cleaned datasets are saved in a structured location
+
+Located within data_preparation for .py files - outputs to data files - clean.
+
+7/13/2026 11:30 PM published results of app_case
+
+Published results of app_case graphical outputs to the documents folder for review.
 
 [docs/index.md](docs/index.md)
 
